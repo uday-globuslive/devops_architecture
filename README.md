@@ -92,6 +92,38 @@ This repository contains detailed architecture diagrams and implementation guide
     - Integration with Azure services
     - Advanced deployment strategies and approval gates
 
+### DevSecOps Case Studies and Best Practices
+
+17. [DevSecOps Maturity Model](devsecops_maturity_model.md)
+    - Comprehensive maturity framework for security integration
+    - Maturity levels from Initial to Optimized
+    - Security dimensions and implementation roadmap
+    - Industry best practices and success factors
+
+18. [Banking Industry DevSecOps Case Study](devsecops_banking_case_study.md)
+    - Financial institution compliance and security platform
+    - PCI-DSS and regulatory compliance implementation
+    - Security automation and CI/CD integration
+    - Quantified benefits and lessons learned
+
+19. [Healthcare Industry DevSecOps Case Study](devsecops_healthcare_case_study.md)
+    - Healthcare information system transformation
+    - HIPAA and PHI protection controls
+    - Secure development workflow and compliance automation
+    - Metrics and implementation approach
+
+20. [E-Commerce DevSecOps Case Study](devsecops_ecommerce_case_study.md)
+    - Large-scale e-commerce platform security transformation
+    - Payment processing security and PCI compliance
+    - Developer enablement and security culture
+    - Technology stack and implementation phases
+
+21. [Government Agency DevSecOps Case Study](devsecops_government_case_study.md)
+    - Federal government agency digital transformation
+    - FedRAMP, FISMA, and NIST 800-53 compliance
+    - Continuous Authority to Operate (cATO) implementation
+    - Stringent compliance automation and verification
+
 ## Usage
 
 These architectures are designed to be reference implementations and can be customized for specific requirements. Each document can be used as:
